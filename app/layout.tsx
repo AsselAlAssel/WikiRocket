@@ -3,7 +3,6 @@ import './globals.css'
 
 export const metadata = {
   title: 'WikiRocker',
-  description: 'WikiRocker is a wiki for rock music.',
 }
 
 export default function RootLayout({
